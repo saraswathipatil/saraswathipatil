@@ -1,11 +1,11 @@
 ![My GIF](./saraswathi_github_vintage_scanline.gif)
-## `$ whoami`
+## `Whoami`
 
 > Computer Science & Engineering Graduate → Code is how I learn; building is how I understand
 
 `Build • Learn • Experiment • Improve`  
 
-## `$ ls projects`
+## `Projects`
 
 ### [Pomegranate Disease Prediction →](YOUR_GITHUB_REPO_LINK)
 `CNN • Deep Learning • Image Classification • Web App`
